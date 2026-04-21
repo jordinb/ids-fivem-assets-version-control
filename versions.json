@@ -1,0 +1,12 @@
+{
+  "ids_map_pack_01": {
+    "version": "1.0.0",
+    "download": "https://portal.cfx.re/assets/granted-assets",
+    "changes": "Initial release."
+  },
+  "ids_city_expansion": {
+    "version": "1.2.0",
+    "download": "https://portal.cfx.re/assets/granted-assets",
+    "changes": "Adjusted IPL handling and fixed map overlap near Legion Square."
+  }
+}
