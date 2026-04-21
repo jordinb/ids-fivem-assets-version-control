@@ -1,2 +1,2 @@
-# ids-fivem-maps-version-control
-Version Control for IDS FiveM Maps
+# ids-fivem-assets-version-control
+Version Control for IDS FiveM Assets
