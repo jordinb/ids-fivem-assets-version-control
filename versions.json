@@ -9,6 +9,11 @@
     "download": "https://github.com/jordinb/fivem_ox_engraving_machine",
     "changes": "Version 1.2.0"
   },
+  "fivem_oxinv_custom_modules": {
+    "version": "1.0.0",
+    "download": "https://github.com/jordinb/fivem_oxinv_custom_modules",
+    "changes": "Initial release."
+  },
   "zotm_custom_maps": {
     "version": "0.0.6",
     "download": "https://portal.cfx.re/assets/granted-assets",
